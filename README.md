@@ -1,3 +1,4 @@
 # dummyProject
-develop changes
+master
+changes
 
